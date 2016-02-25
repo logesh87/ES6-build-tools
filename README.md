@@ -106,7 +106,7 @@ We now have a totally working, modular, ES6 app!!
 ## Gulp
 Gulp is a generic JavaScript task runner that goes well beyond bundling. Gulp can handle many aspects of development. It can serve our files, watch our files and run commands if any of them change, create directories with boilerplate code, and even deploy our app.
 
-Webpack can do a lot of tasks Gulp can. For our ES6 environment, we're going to a basic Gulpfile to serve our app and reload when a file changes.
+Webpack can do a lot of tasks Gulp can. For our ES6 environment, we're going to have a basic Gulpfile to serve our app and reload when a file changes.
 
 **Gulp runs on plugins.** If you want to automate anything, run an `npm search` for `gulp-whatever` and chances are you'll find it.
 
